@@ -28600,8 +28600,7 @@ jenkins/
 *~
 .DS_Store
 Thumbs.db
-
-# Ignore all environment files
+ Ignore all environment files
 .env
 .env.*
 !.env.example
